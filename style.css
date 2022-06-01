@@ -1,0 +1,19 @@
+* {
+  box-sizing: bordor-box;
+}
+
+.main {
+  width: 80%;
+  margin: 200px auto 0;
+}
+
+.list-color {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+}
+
+.btn {
+  width: 100px;
+  height: 100px;
+}
